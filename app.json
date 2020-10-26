@@ -1,0 +1,12 @@
+{
+  "name": "exercicejour1",
+  "displayName": "exercicejour1",
+  "expo": {
+    "name": "exercicejour1",
+    "slug": "exercicejour1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
